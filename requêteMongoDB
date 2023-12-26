@@ -1,0 +1,1 @@
+db.maCollection.find({ statut: "actif" })
